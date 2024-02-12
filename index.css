@@ -1,4 +1,10 @@
 body {
-  font-family: 'Times New Roman', Times, serif;
   background-color: darksalmon;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
+.container {
+  text-align: center;
+  margin-top: 20px;
 }
